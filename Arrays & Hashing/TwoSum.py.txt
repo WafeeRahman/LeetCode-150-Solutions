@@ -1,0 +1,14 @@
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        numMap = {}
+
+        for i in range(len(nums)):
+            #Base Case, if we have the difference between target and the
+            #current number, that means we have a solution
+            if target-nums[i] in numMap.keys():
+                return [numMap[target-nums[i]], i]
+            #Otherwise, add the current value and index to the hashmap
+            numMap[nums[i]] = i
+        
+        return None
+
