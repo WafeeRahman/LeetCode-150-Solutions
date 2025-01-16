@@ -1,0 +1,22 @@
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+
+class Solution:
+    def maxDepth(self, root: Optional[TreeNode]) -> int:
+        #DFS: preorder
+        #When theres no children, add zero to the root
+        if not root:
+            return 0
+        
+        #Take the maximum depth of each subtree
+        val1 = self.maxDepth(root.left)
+        val2 = self.maxDepth(root.right)
+
+        #If there is a node (root) add 1 to the value, which sums up the amount of nodes
+        #Through recursive calls, which will give us our maximum depth per each node
+        return 1 + max(val1, val2)
+        
