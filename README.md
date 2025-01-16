@@ -11,13 +11,13 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 | **Section**               | **Done** | **Total** |
 |---------------------------|:--------:|:---------:|
-| Arrays & Hashing          | 0        | 12        |
+| Arrays & Hashing          | 3        | 12        |
 | Two Pointers              | 0        | 5         |
 | Sliding Window            | 0        | 6         |
 | Stack                     | 0        | 6         |
 | Binary Search             | 0        | 5         |
 | Linked List               | 0        | 6         |
-| Trees                     | 0        | 14        |
+| Trees                     | 4        | 14        |
 | Tries                     | 0        | 2         |
 | Backtracking              | 0        | 8         |
 | Heap / Priority Queue     | 0        | 3         |
