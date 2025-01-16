@@ -1,7 +1,7 @@
 
-Welcome to My NeetCode 150 Tracker
+## Welcome to My NeetCode 150 Tracker! 🧠
 
-When I'm not committing projects to my github, I like to track my leetcoding progress. Currently, I'm working on the leetcode 150, and looking to complete the leetcode 250 thereafter to make sure my skills are always sharp. 
+When I'm not committing projects to my github, I like to track my leetcoding progress with this repository. Currently, I'm working on the leetcode 150, and looking to complete the leetcode 250 thereafter to make sure my Data Structures and Algorithms skills are always sharp. 
 
 ---
 
