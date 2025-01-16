@@ -145,8 +145,8 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 1   | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)    | ✅    | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/DepthofBinaryTree.py.txt) |
 | 2   | [100. Same Tree](https://leetcode.com/problems/same-tree/)                                          | ❌      | [Link]() |
 | 3   | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                        | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/InvertBinaryTree.py.txt) |
-| 4   | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)              | ❌      | [Link]() |
-| 5   | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ❌ | [Link]() |
+| 4   | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)              | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/DiameterofBinaryTree.py) |
+| 5   | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | ✅ | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/BalancedBinaryTree.py) |
 | 6   | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | ❌     | [Link]() |
 | 7   | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)   | ❌      | [Link]() |
 | 8   | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | ❌   | [Link]() |
