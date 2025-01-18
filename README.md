@@ -149,7 +149,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 5   | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | ✅ | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/BalancedBinaryTree.py) |
 | 6   | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/SubtreeofAnotherTree) |
 | 7   | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)   |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/LowestCommonAncestor) |
-| 8   | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)) |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/BinaryTreeLevelOrderTraversal) |
+| 8   | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/BinaryTreeLevelOrderTraversal) |
 | 9   | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ❌ | [Link]() |
 | 10  | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)       | ❌      | [Link]() |
 | 11  | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  | ❌      | [Link]() |
