@@ -17,7 +17,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | Stack                     | 0        | 6         |
 | Binary Search             | 0        | 5         |
 | Linked List               | 0        | 6         |
-| Trees                     | 6        | 14        |
+| Trees                     | 8    | 14        |
 | Tries                     | 0        | 2         |
 | Backtracking              | 0        | 8         |
 | Heap / Priority Queue     | 0        | 3         |
@@ -148,8 +148,8 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 4   | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)              | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/DiameterofBinaryTree.py) |
 | 5   | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | ✅ | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/BalancedBinaryTree.py) |
 | 6   | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/SubtreeofAnotherTree) |
-| 7   | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)   | ❌      | [Link]() |
-| 8   | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | ❌   | [Link]() |
+| 7   | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)   |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/LowestCommonAncestor) |
+| 8   | [102. Binary Tree Level Order Traversal]([https://leetcode.com/problems/binary-tree-postorder-traversal/](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)) |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/BinaryTreeLevelOrderTraversal) |
 | 9   | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ❌ | [Link]() |
 | 10  | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)       | ❌      | [Link]() |
 | 11  | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  | ❌      | [Link]() |
