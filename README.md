@@ -11,13 +11,13 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 | **Section**               | **Done** | **Total** |
 |---------------------------|:--------:|:---------:|
-| Arrays & Hashing          | 3        | 12        |
+| Arrays & Hashing          | 4       | 12        |
 | Two Pointers              | 0        | 5         |
 | Sliding Window            | 0        | 6         |
 | Stack                     | 0        | 6         |
 | Binary Search             | 0        | 5         |
 | Linked List               | 0        | 6         |
-| Trees                     | 4        | 14        |
+| Trees                     | 6        | 14        |
 | Tries                     | 0        | 2         |
 | Backtracking              | 0        | 8         |
 | Heap / Priority Queue     | 0        | 3         |
@@ -63,7 +63,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 1   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                    | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/ContainsDuplicate.py.txt) |
 | 2   | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                              |   ✅    | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/ValidAnagram.py.txt) |
 | 3   | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                            |   ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/TwoSum.py.txt) |
-| 4   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                              | ❌      | [Link]() |
+| 4   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                              |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/GroupAnagrams.py) |
 | 5   | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           | ❌      | [Link]() |
 | 6   | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ❌      | [Link]() |
 | 7   | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                  | ❌      | [Link]() |
@@ -143,11 +143,11 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | #   | Problem                                                                                             | Status | Solution |
 |-----|-----------------------------------------------------------------------------------------------------|--------|----------|
 | 1   | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)    | ✅    | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/DepthofBinaryTree.py.txt) |
-| 2   | [100. Same Tree](https://leetcode.com/problems/same-tree/)                                          | ❌      | [Link]() |
+| 2   | [100. Same Tree](https://leetcode.com/problems/same-tree/)                                          | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/SameBinaryTree) |
 | 3   | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                        | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/InvertBinaryTree.py.txt) |
 | 4   | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)              | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/DiameterofBinaryTree.py) |
 | 5   | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | ✅ | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/BalancedBinaryTree.py) |
-| 6   | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | ❌     | [Link]() |
+| 6   | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/SubtreeofAnotherTree) |
 | 7   | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)   | ❌      | [Link]() |
 | 8   | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | ❌   | [Link]() |
 | 9   | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ❌ | [Link]() |
