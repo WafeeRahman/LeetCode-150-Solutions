@@ -150,12 +150,13 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 6   | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/SubtreeofAnotherTree) |
 | 7   | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)   |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/LowestCommonAncestor) |
 | 8   | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/BinaryTreeLevelOrderTraversal) |
-| 9   | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ❌ | [Link]() |
+| 9   | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | ✅   | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/RightSideofBinaryTree.py) |
 | 10  | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)       | ❌      | [Link]() |
 | 11  | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  | ❌      | [Link]() |
 | 12  | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | ❌ | [Link]() |
 | 13  | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | ❌ | [Link]() |
 | 14  | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)    | ❌      | [Link]() |
+| 15   | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ❌ | [Link]() |
 
 ---
 
