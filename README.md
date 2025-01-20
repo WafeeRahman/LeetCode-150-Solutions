@@ -11,7 +11,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 | **Section**               | **Done** | **Total** |
 |---------------------------|:--------:|:---------:|
-| Arrays & Hashing          | 6     | 12        |
+| Arrays & Hashing          | 7    | 12        |
 | Two Pointers              | 0        | 5         |
 | Sliding Window            | 0        | 6         |
 | Stack                     | 0        | 6         |
@@ -60,12 +60,12 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 | #   | Problem                                                                                          | Status | Solution |
 |-----|--------------------------------------------------------------------------------------------------|--------|----------|
-| 1   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                    | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/ContainsDuplicate.py.txt) |
+| 1   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                    |   ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/ContainsDuplicate.py.txt) |
 | 2   | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                              |   ✅    | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/ValidAnagram.py.txt) |
 | 3   | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                            |   ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/TwoSum.py.txt) |
 | 4   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                              |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/GroupAnagrams.py) |
 | 5   | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           |  ✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/TopKMostFrequentElements) |
-| 6   | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ❌      | [Link]() |
+| 6   | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/ProductsofArrayExceptSelf.py) |
 | 7   | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                  | ❌      | [Link]() |
 | 8   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ❌      | [Link]() |
 | 9   | [271. Encode and Decode Strings (Premium)](https://leetcode.com/problems/encode-and-decode-strings/) |  ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/EncodeandDecodeString.py) |
