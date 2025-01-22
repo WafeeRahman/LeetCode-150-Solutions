@@ -11,7 +11,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 | **Section**               | **Done** | **Total** |
 |---------------------------|:--------:|:---------:|
-| Arrays & Hashing          | 7    | 12        |
+| Arrays & Hashing          | 8    | 9     |
 | Two Pointers              | 0        | 5         |
 | Sliding Window            | 0        | 6         |
 | Stack                     | 0        | 6         |
@@ -66,12 +66,10 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 4   | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                              |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/GroupAnagrams.py) |
 | 5   | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           |  ✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/TopKMostFrequentElements) |
 | 6   | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/ProductsofArrayExceptSelf.py) |
-| 7   | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                  | ❌      | [Link]() |
+| 7   | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                  | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/ValidSudoku.py) |
 | 8   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ❌      | [Link]() |
 | 9   | [271. Encode and Decode Strings (Premium)](https://leetcode.com/problems/encode-and-decode-strings/) |  ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/EncodeandDecodeString.py) |
-| 10  | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                        | ❌      | [Link]() |
-| 11  | [48. Rotate Image](https://leetcode.com/problems/rotate-image/)                                  | ❌      | [Link]() |
-| 12  | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)   | ❌      | [Link]() |
+
 
 ---
 
