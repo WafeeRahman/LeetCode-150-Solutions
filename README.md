@@ -11,7 +11,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 | **Section**               | **Done** | **Total** |
 |---------------------------|:--------:|:---------:|
-| Arrays & Hashing          | 8    | 9     |
+| Arrays & Hashing          | 9    | 9     |
 | Two Pointers              | 0        | 5         |
 | Sliding Window            | 0        | 6         |
 | Stack                     | 0        | 6         |
@@ -56,7 +56,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 ---
 
-## Arrays & Hashing (12)
+## Arrays & Hashing (9) ✅
 
 | #   | Problem                                                                                          | Status | Solution |
 |-----|--------------------------------------------------------------------------------------------------|--------|----------|
@@ -67,7 +67,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 5   | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           |  ✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/TopKMostFrequentElements) |
 | 6   | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/ProductsofArrayExceptSelf.py) |
 | 7   | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                  | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/ValidSudoku.py) |
-| 8   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ❌      | [Link]() |
+| 8   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/LongestConsecutiveSequence.py) |
 | 9   | [271. Encode and Decode Strings (Premium)](https://leetcode.com/problems/encode-and-decode-strings/) |  ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Arrays%20%26%20Hashing/EncodeandDecodeString.py) |
 
 
