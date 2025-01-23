@@ -1,0 +1,36 @@
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+
+class Solution:
+    def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
+        count = 0
+        kthSmallest = None
+        #An inorder traversal will traverse all items from least to greatest
+        #Therefore, increment until we reach the kth value starting from least to greatest
+        def dfs(root):
+            nonlocal count
+            nonlocal kthSmallest
+            if not root:
+                return
+            
+            dfs(root.left)
+            print(root.val)
+            count+=1
+            print(count)
+
+            if count == k:
+                kthSmallest = root.val
+                return 
+
+            dfs(root.right)
+
+        dfs(root)
+
+        return kthSmallest
+
+
+            
