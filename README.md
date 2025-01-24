@@ -17,7 +17,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | Stack                     | 0        | 6         |
 | Binary Search             | 0        | 5         |
 | Linked List               | 0        | 6         |
-| Trees                     | 8    | 14        |
+| Trees                     | 9    | 14        |
 | Tries                     | 0        | 2         |
 | Backtracking              | 0        | 8         |
 | Heap / Priority Queue     | 0        | 3         |
@@ -154,7 +154,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 12  | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | ❌ | [Link]() |
 | 13  | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | ❌ | [Link]() |
 | 14  | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)    | ❌      | [Link]() |
-| 15   | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ❌ | [Link]() |
+| 15   | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ✅ | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/ConstructBinaryTreefromPreorderandInorder.py) |
 
 ---
 
