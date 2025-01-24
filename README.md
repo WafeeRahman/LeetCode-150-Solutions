@@ -12,7 +12,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | **Section**               | **Done** | **Total** |
 |---------------------------|:--------:|:---------:|
 | Arrays & Hashing          | 9    | 9     |
-| Two Pointers              | 1        | 5         |
+| Two Pointers              | 2        | 5         |
 | Sliding Window            | 0        | 6         |
 | Stack                     | 0        | 6         |
 | Binary Search             | 0        | 5         |
@@ -78,7 +78,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | #   | Problem                                                                                         | Status | Solution |
 |-----|-------------------------------------------------------------------------------------------------|--------|----------|
 | 1   | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                       | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/TwoPointers/ValidPalindrome.py) |
-| 2   | [344. Reverse String](https://leetcode.com/problems/reverse-string/)                           | ❌      | [Link]() |
+| 2   | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)                           | ✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/tree/main/TwoPointers/TwoSumII.py) |
 | 3   | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)       | ❌      | [Link]() |
 | 4   | [15. 3Sum](https://leetcode.com/problems/3sum/)                                                | ❌      | [Link]() |
 | 5   | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                   | ❌      | [Link]() |
