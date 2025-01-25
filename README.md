@@ -151,10 +151,9 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 9   | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | ✅   | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/RightSideofBinaryTree.py) |
 | 10  | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)       | ✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/ValidateBinaryTree.py) |
 | 11  | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/KthSmallestIntegerinBST) |
-| 12  | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | ❌ | [Link]() |
-| 13  | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | ❌ | [Link]() |
-| 14  | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)    | ❌      | [Link]() |
-| 15   | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ✅ | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/ConstructBinaryTreefromPreorderandInorder.py) |
+| 12  | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | ❌ | [Link]() |
+| 13  | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)    |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/MaximumPathSum.py) |
+| 14   | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ✅ | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/ConstructBinaryTreefromPreorderandInorder.py) |
 
 ---
 
