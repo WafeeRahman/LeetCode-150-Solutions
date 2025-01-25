@@ -80,7 +80,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 1   | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                       | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/TwoPointers/ValidPalindrome.py) |
 | 2   | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)                           | ✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/tree/main/TwoPointers/TwoSumII.py) |
 | 3   | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)       | ❌      | [Link]() |
-| 4   | [15. 3Sum](https://leetcode.com/problems/3sum/)                                                | ❌      | [Link]() |
+| 4   | [15. 3Sum](https://leetcode.com/problems/3sum/)                                                | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/TwoPointers/ThreeSum.py) |
 | 5   | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                   | ❌      | [Link]() |
 
 ---
