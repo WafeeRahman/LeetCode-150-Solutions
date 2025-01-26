@@ -12,12 +12,12 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | **Section**               | **Done** | **Total** |
 |---------------------------|:--------:|:---------:|
 | Arrays & Hashing          | 9    | 9     |
-| Two Pointers              | 3       | 5         |
+| Two Pointers              | 4       | 5         |
 | Sliding Window            | 0        | 6         |
 | Stack                     | 0        | 6         |
 | Binary Search             | 0        | 5         |
 | Linked List               | 0        | 6         |
-| Trees                     | 9    | 14        |
+| Trees                     | 14    | 14        |
 | Tries                     | 0        | 2         |
 | Backtracking              | 0        | 8         |
 | Heap / Priority Queue     | 0        | 3         |
@@ -79,7 +79,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 |-----|-------------------------------------------------------------------------------------------------|--------|----------|
 | 1   | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                       | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/TwoPointers/ValidPalindrome.py) |
 | 2   | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)                           | ✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/tree/main/TwoPointers/TwoSumII.py) |
-| 3   | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)       | ❌      | [Link]() |
+| 3   | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)       | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/TwoPointers/ContainerwithMostWater.py) |
 | 4   | [15. 3Sum](https://leetcode.com/problems/3sum/)                                                | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/TwoPointers/ThreeSum.py) |
 | 5   | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                   | ❌      | [Link]() |
 
@@ -136,7 +136,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 ---
 
-## Trees (14)
+## Trees (14) ✅
 
 | #   | Problem                                                                                             | Status | Solution |
 |-----|-----------------------------------------------------------------------------------------------------|--------|----------|
@@ -151,7 +151,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 9   | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | ✅   | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/RightSideofBinaryTree.py) |
 | 10  | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)       | ✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/ValidateBinaryTree.py) |
 | 11  | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/KthSmallestIntegerinBST) |
-| 12  | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | ❌ | [Link]() |
+| 12  | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | ✅ | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/SerializeandDeserializeBinaryTree.py) |
 | 13  | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)    |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/MaximumPathSum.py) |
 | 14   | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ✅ | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trees/ConstructBinaryTreefromPreorderandInorder.py) |
 
