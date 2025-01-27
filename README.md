@@ -187,7 +187,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 | #   | Problem                                                                                        | Status | Solution |
 |-----|------------------------------------------------------------------------------------------------|--------|----------|
-| 1   | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)         | ❌      | [Link]() |
+| 1   | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)   |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Heaps/KthLargestElementinaStream.py) |
 | 2   | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                | ❌      | [Link]() |
 | 3   | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | ❌     | [Link]() |
 
