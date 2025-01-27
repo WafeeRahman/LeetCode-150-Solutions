@@ -12,7 +12,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | **Section**               | **Done** | **Total** |
 |---------------------------|:--------:|:---------:|
 | Arrays & Hashing          | 9    | 9     |
-| Two Pointers              | 4       | 5         |
+| Two Pointers              | 5      | 5         |
 | Sliding Window            | 0        | 6         |
 | Stack                     | 0        | 6         |
 | Binary Search             | 0        | 5         |
@@ -73,7 +73,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 ---
 
-## Two Pointers (5)
+## Two Pointers (5) ✅
 
 | #   | Problem                                                                                         | Status | Solution |
 |-----|-------------------------------------------------------------------------------------------------|--------|----------|
@@ -81,7 +81,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 2   | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)                           | ✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/tree/main/TwoPointers/TwoSumII.py) |
 | 3   | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)       | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/TwoPointers/ContainerwithMostWater.py) |
 | 4   | [15. 3Sum](https://leetcode.com/problems/3sum/)                                                | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/TwoPointers/ThreeSum.py) |
-| 5   | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                   | ❌      | [Link]() |
+| 5   | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                   | ✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/TwoPointers/TrappingRainWater.py) |
 
 ---
 
