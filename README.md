@@ -183,12 +183,13 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 ---
 
-## Heap / Priority Queue (3)
+## Heap / Priority Queue (9)
 
 | #   | Problem                                                                                        | Status | Solution |
 |-----|------------------------------------------------------------------------------------------------|--------|----------|
 | 1   | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)   |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Heaps/KthLargestElementinaStream.py) |
 | 2   | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)   |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Heaps/LastStoneWeight.py) |
+| 3   | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)   |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Heaps/KClosestPointstoOrigin.py) |
 
 > **Note:** Some problems (e.g., Top K Frequent Elements, Merge k Sorted Lists) also appear in other categories. Include them wherever you prefer.
 
