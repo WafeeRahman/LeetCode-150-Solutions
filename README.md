@@ -14,7 +14,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | Arrays & Hashing          | 9    | 9     |
 | Two Pointers              | 5      | 5         |
 | Sliding Window            | 0        | 6         |
-| Stack                     | 2       | 6         |
+| Stack                     | 3      | 6         |
 | Binary Search             | 0        | 5         |
 | Linked List               | 0        | 6         |
 | Trees                     | 14    | 14        |
