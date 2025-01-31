@@ -104,7 +104,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 |-----|-------------------------------------------------------------------------------------------------|--------|----------|
 | 1   | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                      | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Stacks/ValidParentheses.py) |
 | 2   | [155. Min Stack](https://leetcode.com/problems/min-stack/)                                     | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Stacks/MinStack.py) |
-| 3   | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | ❌ | [Link]() |
+| 3   | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | ✅   | [Solution](http://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Stacks/EvaluateReversePolishNotation.py) |
 | 4   | [71. Simplify Path](https://leetcode.com/problems/simplify-path/)                              | ❌      | [Link]() |
 | 5   | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)                 | ❌      | [Link]() |
 | 6   | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | ❌  | [Link]() |
