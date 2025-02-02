@@ -14,13 +14,13 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | Arrays & Hashing          | 9    | 9     |
 | Two Pointers              | 5      | 5         |
 | Sliding Window            | 0        | 6         |
-| Stack                     | 4     | 6         |
+| Stack                     | 5    | 6         |
 | Binary Search             | 0        | 5         |
 | Linked List               | 0        | 6         |
 | Trees                     | 14    | 14        |
 | Tries                     | 0        | 2         |
 | Backtracking              | 0        | 8         |
-| Heap / Priority Queue     | 3     | 9         |
+| Heap / Priority Queue     | 4     | 9         |
 | Graphs                    | 0        | 9         |
 | Advanced Graph            | 0        | 3         |
 | 1D Dynamic Programming    | 0        | 7         |
@@ -191,6 +191,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 2   | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)   |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Heaps/LastStoneWeight.py) |
 | 3   | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)   |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Heaps/KClosestPointstoOrigin.py) |
 | 4   | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)   |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Heaps/KthLargestElementinAnArray.py) |
+| 6  | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)   |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Heaps/TaskScheduler.py) |
 
 > **Note:** Some problems (e.g., Top K Frequent Elements, Merge k Sorted Lists) also appear in other categories. Include them wherever you prefer.
 
