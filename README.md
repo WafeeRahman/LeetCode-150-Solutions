@@ -20,7 +20,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | Trees                     | 14    | 14        |
 | Tries                     | 0        | 2         |
 | Backtracking              | 0        | 8         |
-| Heap / Priority Queue     | 6    | 7      |
+| Heap / Priority Queue     | 7   | 7      |
 | Graphs                    | 0        | 9         |
 | Advanced Graph            | 0        | 3         |
 | 1D Dynamic Programming    | 0        | 7         |
@@ -184,7 +184,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 ---
 
-## Heap / Priority Queue (7)
+## Heap / Priority Queue (7) ✅ 
 
 | #   | Problem                                                                                        | Status | Solution |
 |-----|------------------------------------------------------------------------------------------------|--------|----------|
@@ -194,6 +194,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 4   | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)   |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Heaps/KthLargestElementinAnArray.py) |
 | 5 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)   |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Heaps/TaskScheduler.py) |
 | 6 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/description/)   |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Heaps/DesignTwitter.py) |
+| 7 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)   |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Heaps/FindMedianfromDataStream.py) |
 
 > **Note:** Some problems (e.g., Top K Frequent Elements, Merge k Sorted Lists) also appear in other categories. Include them wherever you prefer.
 
