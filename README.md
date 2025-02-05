@@ -98,7 +98,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 ---
 
-## Stack (7)
+## Stack (7) ✅ 
 
 | #   | Problem                                                                                         | Status | Solution |
 |-----|-------------------------------------------------------------------------------------------------|--------|----------|
