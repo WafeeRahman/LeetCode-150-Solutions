@@ -14,7 +14,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | Arrays & Hashing          | 9    | 9     |
 | Two Pointers              | 5      | 5         |
 | Sliding Window            | 0        | 6         |
-| Stack                     | 6    |  7     |
+| Stack                     | 7   |  7     |
 | Binary Search             | 0        | 5         |
 | Linked List               | 0        | 6         |
 | Trees                     | 14    | 14        |
@@ -108,7 +108,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 4   | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)                              | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Stacks/GenerateParentheses.py) |
 | 5   | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)                 | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Stacks/DailyTemperatures.py) |
 | 6   | [853. Car Fleet](https://leetcode.com/problems/car-fleet/description/)                 | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Stacks/CarFleet.py) |
-| 7  | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | ❌  | [Link]() |
+| 7  | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Stacks/LargestRectangleInHistogram.py) |
 
 ---
 
