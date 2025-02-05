@@ -171,7 +171,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 | #   | Problem                                                                                     | Status | Solution |
 |-----|---------------------------------------------------------------------------------------------|--------|----------|
-| 1   | [78. Subsets](https://leetcode.com/problems/subsets/)                                      | ❌      | [Link]() |
+| 1   | [78. Subsets](https://leetcode.com/problems/subsets/)                                      |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/SubsetsI.py) |
 | 2   | [46. Permutations](https://leetcode.com/problems/permutations/)                            | ❌      | [Link]() |
 | 3   | [77. Combinations](https://leetcode.com/problems/combinations/)                            | ❌      | [Link]() |
 | 4   | [79. Word Search](https://leetcode.com/problems/word-search/)                              | ❌      | [Link]() |
