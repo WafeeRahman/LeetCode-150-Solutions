@@ -15,7 +15,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | Two Pointers              | 5      | 5         |
 | Sliding Window            | 0        | 6         |
 | Stack                     | 7   |  7     |
-| Binary Search             | 0        | 5         |
+| Binary Search             | 1        | 5         |
 | Linked List               | 0        | 6         |
 | Trees                     | 14    | 14        |
 | Tries                     | 0        | 2         |
@@ -116,7 +116,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 | #   | Problem                                                                                     | Status | Solution |
 |-----|---------------------------------------------------------------------------------------------|--------|----------|
-| 1   | [704. Binary Search](https://leetcode.com/problems/binary-search/)                         | ❌      | [Link]() |
+| 1   | [704. Binary Search](https://leetcode.com/problems/binary-search/)                         | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/BinarySearch/BinarySearch.py) |
 | 2   | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                 | ❌      | [Link]() |
 | 3   | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ❌  | [Link]() |
 | 4   | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | ❌ | [Link]() |
@@ -175,7 +175,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 2   | [46. Permutations](https://leetcode.com/problems/permutations/)                            | ❌      | [Link]() |
 | 3   | [77. Combinations](https://leetcode.com/problems/combinations/)                            | ❌      | [Link]() |
 | 4   | [79. Word Search](https://leetcode.com/problems/word-search/)                              | ❌      | [Link]() |
-| 5   | [39. Combination Sum](https://leetcode.com/problems/combination-sum/)                      | ❌      | [Link]() |
+| 5   | [39. Combination Sum](https://leetcode.com/problems/combination-sum/)                      | ✅        | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/CombinationSumI.py) |
 | 6   | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)      | ❌      | [Link]() |
 | 7   | [51. N-Queens](https://leetcode.com/problems/n-queens/)                                    | ❌      | [Link]() |
 | 8   | [212. Word Search II](https://leetcode.com/problems/word-search-ii/)                       | ❌      | [Link]() |
