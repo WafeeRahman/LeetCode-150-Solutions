@@ -15,11 +15,11 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | Two Pointers              | 5      | 5         |
 | Sliding Window            | 0        | 6         |
 | Stack                     | 7   |  7     |
-| Binary Search             | 1        | 5         |
+| Binary Search             | 2       | 5         |
 | Linked List               | 0        | 6         |
 | Trees                     | 14    | 14        |
 | Tries                     | 0        | 2         |
-| Backtracking              | 0        | 8         |
+| Backtracking              | 3       | 8         |
 | Heap / Priority Queue     | 7   | 7      |
 | Graphs                    | 0        | 9         |
 | Advanced Graph            | 0        | 3         |
@@ -176,6 +176,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 3   | [77. Combinations](https://leetcode.com/problems/combinations/)                            | ❌      | [Link]() |
 | 4   | [79. Word Search](https://leetcode.com/problems/word-search/)                              | ❌      | [Link]() |
 | 5   | [39. Combination Sum](https://leetcode.com/problems/combination-sum/)                      | ✅        | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/CombinationSumI.py) |
+| 5   | [40. Combination Sum II ](https://leetcode.com/problems/combination-sum-ii/description/)     | ✅        | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/CombinationSumII.py) |
 | 6   | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)      | ❌      | [Link]() |
 | 7   | [51. N-Queens](https://leetcode.com/problems/n-queens/)                                    | ❌      | [Link]() |
 | 8   | [212. Word Search II](https://leetcode.com/problems/word-search-ii/)                       | ❌      | [Link]() |
