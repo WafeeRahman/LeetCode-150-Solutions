@@ -117,7 +117,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | #   | Problem                                                                                     | Status | Solution |
 |-----|---------------------------------------------------------------------------------------------|--------|----------|
 | 1   | [704. Binary Search](https://leetcode.com/problems/binary-search/)                         | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/BinarySearch/BinarySearch.py) |
-| 2   | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                 | ❌      | [Link]() |
+| 2   | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                 |✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/BinarySearch/SearchA2DMatrix.py) |
 | 3   | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ❌  | [Link]() |
 | 4   | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | ❌ | [Link]() |
 | 5   | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ❌ | [Link]() |
