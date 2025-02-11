@@ -15,11 +15,11 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | Two Pointers              | 5      | 5         |
 | Sliding Window            | 0        | 6         |
 | Stack                     | 7   |  7     |
-| Binary Search             | 3    | 5         |
+| Binary Search             | 4    | 5         |
 | Linked List               | 0        | 6         |
 | Trees                     | 14    | 14        |
 | Tries                     | 0        | 2         |
-| Backtracking              | 4      | 8         |
+| Backtracking              | 5      | 8         |
 | Heap / Priority Queue     | 7   | 7      |
 | Graphs                    | 0        | 9         |
 | Advanced Graph            | 0        | 3         |
@@ -120,7 +120,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 2   | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                 |✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/BinarySearch/SearchA2DMatrix.py) |
 | 3   | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)                 |✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/BinarySearch/KokoEatingBananas.py) |
 | 4   | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ❌  | [Link]() |
-| 5  | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ❌ | [Link]() |
+| 5  | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅ | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/BinarySearch/FindMinimumofRotatedSortedArray.py) |
 
 ---
 
@@ -174,7 +174,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 1   | [78. Subsets](https://leetcode.com/problems/subsets/)                                      |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/SubsetsI.py) |
 | 2   | [46. Permutations](https://leetcode.com/problems/permutations/)                            | ✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/Permutations.py) |
 | 3   | [77. Combinations](https://leetcode.com/problems/combinations/)                            | ❌      | [Link]() |
-| 4   | [79. Word Search](https://leetcode.com/problems/word-search/)                              | ❌      | [Link]() |
+| 4   | [79. Word Search](https://leetcode.com/problems/word-search/)                              | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/WordSearch.py) |
 | 5   | [39. Combination Sum](https://leetcode.com/problems/combination-sum/)                      | ✅        | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/CombinationSumI.py) |
 | 5   | [40. Combination Sum II ](https://leetcode.com/problems/combination-sum-ii/description/)     | ✅        | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/CombinationSumII.py) |
 | 6   | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)      | ❌      | [Link]() |
