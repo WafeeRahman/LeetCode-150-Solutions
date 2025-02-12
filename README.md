@@ -15,7 +15,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | Two Pointers              | 5      | 5         |
 | Sliding Window            | 0        | 6         |
 | Stack                     | 7   |  7     |
-| Binary Search             | 5    | 7        |
+| Binary Search             | 6   | 7        |
 | Linked List               | 0        | 6         |
 | Trees                     | 14    | 14        |
 | Tries                     | 0        | 2         |
@@ -112,7 +112,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 ---
 
-## Binary Search (5)
+## Binary Search (7)
 
 | #   | Problem                                                                                     | Status | Solution |
 |-----|---------------------------------------------------------------------------------------------|--------|----------|
@@ -121,6 +121,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 3   | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)                 |✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/BinarySearch/KokoEatingBananas.py) |
 | 4   | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/BinarySearch/SearchinRotatedSortedArray.py) |
 | 5  | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅ | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/BinarySearch/FindMinimumofRotatedSortedArray.py) |
+| 6 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/) | ✅ | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/BinarySearch/TimeBasedKey-ValueStore.py) |
 
 ---
 
