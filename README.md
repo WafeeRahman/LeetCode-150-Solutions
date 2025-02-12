@@ -19,7 +19,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | Linked List               | 0        | 6         |
 | Trees                     | 14    | 14        |
 | Tries                     | 0        | 2         |
-| Backtracking              | 7     | 8         |
+| Backtracking              | 8    | 9        |
 | Heap / Priority Queue     | 7   | 7      |
 | Graphs                    | 0        | 9         |
 | Advanced Graph            | 0        | 3         |
@@ -173,13 +173,14 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | #   | Problem                                                                                     | Status | Solution |
 |-----|---------------------------------------------------------------------------------------------|--------|----------|
 | 1   | [78. Subsets](https://leetcode.com/problems/subsets/)                                      |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/SubsetsI.py) |
-| 2   | [46. Permutations](https://leetcode.com/problems/permutations/)                            | ✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/Permutations.py) |
-| 3   | [79. Word Search](https://leetcode.com/problems/word-search/)                              | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/WordSearch.py) |
-| 4   | [39. Combination Sum](https://leetcode.com/problems/combination-sum/)                      | ✅        | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/CombinationSumI.py) |
-| 5   | [40. Combination Sum II ](https://leetcode.com/problems/combination-sum-ii/description/)     | ✅        | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/CombinationSumII.py) |
-| 6   | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)      |   ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/PalindromePartitioning.py) |
-| 7   | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)      |   ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/LetterCombinationsofaPhoneNumber.py) |
-| 8   | [51. N-Queens](https://leetcode.com/problems/n-queens/)                                    | ❌      | [Link]() |
+| 2   | [78. Subsets II](https://leetcode.com/problems/subsets-ii/)                                      |  ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/SubsetsII.py) |
+| 3   | [46. Permutations](https://leetcode.com/problems/permutations/)                            | ✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/Permutations.py) |
+| 4   | [79. Word Search](https://leetcode.com/problems/word-search/)                              | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/WordSearch.py) |
+| 5   | [39. Combination Sum](https://leetcode.com/problems/combination-sum/)                      | ✅        | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/CombinationSumI.py) |
+| 6   | [40. Combination Sum II ](https://leetcode.com/problems/combination-sum-ii/description/)     | ✅        | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/CombinationSumII.py) |
+| 7   | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)      |   ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/PalindromePartitioning.py) |
+| 8   | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)      |   ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/LetterCombinationsofaPhoneNumber.py) |
+| 9   | [51. N-Queens](https://leetcode.com/problems/n-queens/)                                    | ❌      | [Link]() |
 
 
 ---
