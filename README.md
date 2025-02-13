@@ -174,7 +174,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | #   | Problem                                                                                     | Status | Solution |
 |-----|---------------------------------------------------------------------------------------------|--------|----------|
 | 1   | [78. Subsets](https://leetcode.com/problems/subsets/)                                      |  ✅     |     [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/SubsetsI.py) |
-| 2   | [78. Subsets II](https://leetcode.com/problems/subsets-ii/)                                      |  ✅     [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/SubsetsII.py) |
+| 2   | [78. Subsets II](https://leetcode.com/problems/subsets-ii/)                                      |  ✅  |   [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/SubsetsII.py) |
 | 3   | [46. Permutations](https://leetcode.com/problems/permutations/)                            | ✅      |     [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/Permutations.py) |
 | 4   | [79. Word Search](https://leetcode.com/problems/word-search/)                              | ✅     |      [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/WordSearch.py) |
 | 5   | [39. Combination Sum](https://leetcode.com/problems/combination-sum/)                      | ✅        |   [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/CombinationSumI.py) |
