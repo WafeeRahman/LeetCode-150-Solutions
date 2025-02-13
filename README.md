@@ -181,7 +181,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 6   | [40. Combination Sum II ](https://leetcode.com/problems/combination-sum-ii/description/)     | ✅        | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/CombinationSumII.py) |
 | 7   | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)      |   ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/PalindromePartitioning.py) |
 | 8   | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)      |   ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/LetterCombinationsofaPhoneNumber.py) |
-| 9   | [51. N-Queens](https://leetcode.com/problems/n-queens/)                                    | ❌      | [Link]() |
+| 9   | [51. N-Queens](https://leetcode.com/problems/n-queens/)                                    | ✅      | [Solutions](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Backtracking/NQueens.py) |
 
 
 ---
