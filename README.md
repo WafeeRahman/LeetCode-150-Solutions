@@ -164,7 +164,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 | #   | Problem                                                                                       | Status | Solution |
 |-----|-----------------------------------------------------------------------------------------------|--------|----------|
-| 1   | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | ❌      | [Link]() |
+| 1   | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trie/ImplementPrefixTree.py) |
 | 2   | [212. Word Search II](https://leetcode.com/problems/word-search-ii/)                         | ❌      | [Link]() |
 
 ---
