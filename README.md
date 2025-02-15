@@ -18,7 +18,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | Binary Search             | 7  | 7        |
 | Linked List               | 0        | 6         |
 | Trees                     | 14    | 14        |
-| Tries                     | 0        | 3        |
+| Tries                     | 2        | 3        |
 | Backtracking              | 9   | 9        |
 | Heap / Priority Queue     | 7   | 7      |
 | Graphs                    | 0        | 9         |
@@ -165,7 +165,8 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | #   | Problem                                                                                       | Status | Solution |
 |-----|-----------------------------------------------------------------------------------------------|--------|----------|
 | 1   | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trie/ImplementPrefixTree.py) |
-| 2   | [212. Word Search II](https://leetcode.com/problems/word-search-ii/)                         | ❌      | [Link]() |
+| 2   | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)                         | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trie/WordDictionary.py) |
+| 3   | [212. Word Search II](https://leetcode.com/problems/word-search-ii/)                         | ❌      | [Link]() |
 
 ---
 
