@@ -85,7 +85,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 ---
 
-## Sliding Window (6) ✅
+## Sliding Window (6) 
 
 | #   | Problem                                                                                                      | Status | Solution |
 |-----|--------------------------------------------------------------------------------------------------------------|--------|----------|
