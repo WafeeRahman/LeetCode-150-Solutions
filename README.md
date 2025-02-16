@@ -13,12 +13,12 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 |---------------------------|:--------:|:---------:|
 | Arrays & Hashing          | 9    | 9     |
 | Two Pointers              | 5      | 5         |
-| Sliding Window            | 0        | 6         |
+| Sliding Window            | 3       | 6         |
 | Stack                     | 7   |  7     |
 | Binary Search             | 7  | 7        |
 | Linked List               | 0        | 6         |
 | Trees                     | 14    | 14        |
-| Tries                     | 2        | 3        |
+| Tries                     | 3      | 3        |
 | Backtracking              | 9   | 9        |
 | Heap / Priority Queue     | 7   | 7      |
 | Graphs                    | 0        | 9         |
@@ -91,7 +91,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 |-----|--------------------------------------------------------------------------------------------------------------|--------|----------|
 | 1   | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)      | ✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/SlidingWindow/BestTimetoBuyAndSellStock.py) |
 | 2   | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/SlidingWindow/LongestSubstringWithoutRepeatedCharacters.py) |
-| 3   | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ❌ | [Link]() |
+| 3   | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ✅| [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/SlidingWindow/LongestSubstringWithoutRepeatedCharacters.py) |
 | 4   | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                          | ❌      | [Link]() |
 | 5   | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                     | ❌      | [Link]() |
 | 6   | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)                        | ❌      | [Link]() |
@@ -166,7 +166,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 |-----|-----------------------------------------------------------------------------------------------|--------|----------|
 | 1   | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trie/ImplementPrefixTree.py) |
 | 2   | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)                         | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trie/WordDictionary.py) |
-| 3   | [212. Word Search II](https://leetcode.com/problems/word-search-ii/)                         | ❌      | [Link]() |
+| 3   | [212. Word Search II](https://leetcode.com/problems/word-search-ii/)                         |  ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Trie/WordSearchII.py) |
 
 ---
 
