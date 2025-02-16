@@ -85,7 +85,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 ---
 
-## Sliding Window (6)
+## Sliding Window (6) ✅
 
 | #   | Problem                                                                                                      | Status | Solution |
 |-----|--------------------------------------------------------------------------------------------------------------|--------|----------|
@@ -126,7 +126,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 ---
 
-## Linked List (6)
+## Linked List (6) 
 
 | #   | Problem                                                                                   | Status | Solution |
 |-----|-------------------------------------------------------------------------------------------|--------|----------|
@@ -160,7 +160,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 ---
 
-## Tries (3)
+## Tries (3) ✅
 
 | #   | Problem                                                                                       | Status | Solution |
 |-----|-----------------------------------------------------------------------------------------------|--------|----------|
