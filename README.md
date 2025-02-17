@@ -21,7 +21,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | Tries                     | 3      | 3        |
 | Backtracking              | 9   | 9        |
 | Heap / Priority Queue     | 7   | 7      |
-| Graphs                    | 0        | 9         |
+| Graphs                    | 1        | 9         |
 | Advanced Graph            | 0        | 3         |
 | 1D Dynamic Programming    | 0        | 7         |
 | 2D Dynamic Programming    | 0        | 6         |
@@ -207,7 +207,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 | #   | Problem                                                                                      | Status | Solution |
 |-----|----------------------------------------------------------------------------------------------|--------|----------|
-| 1   | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)                  | ❌      | [Link]() |
+| 1   | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)                  |  ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/NumberOfIslands.py) |
 | 2   | [133. Clone Graph](https://leetcode.com/problems/clone-graph/)                              | ❌      | [Link]() |
 | 3   | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | ❌    | [Link]() |
 | 4   | [207. Course Schedule](https://leetcode.com/problems/course-schedule/)                      | ❌      | [Link]() |
