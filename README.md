@@ -85,7 +85,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 ---
 
-## Sliding Window (6) 
+## Sliding Window (6)  ✅
 
 | #   | Problem                                                                                                      | Status | Solution |
 |-----|--------------------------------------------------------------------------------------------------------------|--------|----------|
@@ -130,7 +130,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 | #   | Problem                                                                                   | Status | Solution |
 |-----|-------------------------------------------------------------------------------------------|--------|----------|
-| 1   | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)           | ❌      | [Link]() |
+| 1   | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)           | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/LinkedLists/ReverseLinkedList.py) |
 | 2   | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)               | ❌      | [Link]() |
 | 3   | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)       | ❌      | [Link]() |
 | 4   | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ❌ | [Link]() |
@@ -208,7 +208,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | #   | Problem                                                                                      | Status | Solution |
 |-----|----------------------------------------------------------------------------------------------|--------|----------|
 | 1   | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)                  |  ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/NumberOfIslands.py) |
-| 2   | [133. Clone Graph](https://leetcode.com/problems/clone-graph/)                              | ❌      | [Link]() |
+| 2   | [133. Clone Graph](https://leetcode.com/problems/clone-graph/)                              | ✅        | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/CloneGraph.py) |
 | 3   | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | ❌    | [Link]() |
 | 4   | [207. Course Schedule](https://leetcode.com/problems/course-schedule/)                      | ❌      | [Link]() |
 | 5   | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                | ❌      | [Link]() |
