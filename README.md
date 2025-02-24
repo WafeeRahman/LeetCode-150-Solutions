@@ -216,6 +216,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 7   | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)                    | ❌      | [Link]() |
 | 8   | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                      | ❌      | [Link]() |
 | 9   | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)                | ❌      | [Link]() |
+| 10  | [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/)                | ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/WallsAndGates.py) |
 
 ---
 
