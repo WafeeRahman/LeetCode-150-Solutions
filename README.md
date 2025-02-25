@@ -131,7 +131,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | #   | Problem                                                                                   | Status | Solution |
 |-----|-------------------------------------------------------------------------------------------|--------|----------|
 | 1   | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)           | ✅     | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/LinkedLists/ReverseLinkedList.py) |
-| 2   | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)               | ❌      | [Link]() |
+| 2   | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)               | ✅        | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/LinkedLists/LinkedListCycle.py) |
 | 3   | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)       | ✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/LinkedLists/MergeLinkedLists.py) |
 | 4   | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ❌ | [Link]() |
 | 5   | [143. Reorder List](https://leetcode.com/problems/reorder-list/)                         | ❌      | [Link]() |
