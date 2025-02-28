@@ -212,7 +212,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 2   | [133. Clone Graph](https://leetcode.com/problems/clone-graph/)                              | ✅        | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/CloneGraph.py) |
 | 3   | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) |   ✅    | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/PacificAtlanticWaterFlow.py)|
 | 4   | [207. Course Schedule](https://leetcode.com/problems/course-schedule/)                      | ✅        | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/CourseScheduleI.py) |
-| 5   | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                | ❌      | [Link]() |
+| 5   | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                |  ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/CourseScheduleII.py) |
 | 6   | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                | ✅      | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/MaxAreaOfAnIsland.py) |
 | 7   | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)                    | ❌      | [Link]() |
 | 8   | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                      | ✅        | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/RottingOranges.py) |
