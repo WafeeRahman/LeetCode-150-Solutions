@@ -136,6 +136,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 4   | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/LinkedLists/RemoveNodeFromEndOfLinkedList.py) |
 | 5   | [143. Reorder List](https://leetcode.com/problems/reorder-list/)                         | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/LinkedLists/ReorderLinkedList.py) |
 | 6   | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)           | ❌      | [Link]() |
+| 7 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |✅    | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/LinkedLists/CopyListWithRandomPointer.py)
 
 ---
 
