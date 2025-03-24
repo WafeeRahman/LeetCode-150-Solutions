@@ -220,6 +220,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 8   | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                      | ✅        | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/RottingOranges.py) |
 | 9   | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)                | ✅       | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/SurroundedRegions.py) |
 | 10  | [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/)                | ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/WallsAndGates.py) |
+| 11  | [323.Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/)                | ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/NumberOfConnectedComponents.py) |
 
 ---
 
