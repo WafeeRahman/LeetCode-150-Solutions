@@ -139,6 +139,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 7 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |✅    | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/LinkedLists/CopyListWithRandomPointer.py)
 | 8 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |✅    | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/tree/main/LinkedLists)
 | 9 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |✅    | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/LinkedLists/FindDuplicateNumber.py)
+| 10 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) |✅    | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/LinkedLists/LRUCache.py)
 
 ---
 
