@@ -16,7 +16,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | Sliding Window            | 6     | 6         |
 | Stack                     | 7   |  7     |
 | Binary Search             | 7  | 7        |
-| Linked List               | 3       | 6         |
+| Linked List               | 11       | 11         |
 | Trees                     | 14    | 14        |
 | Tries                     | 3      | 3        |
 | Backtracking              | 9   | 9        |
@@ -126,7 +126,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 
 ---
 
-## Linked List (6) 
+## Linked List (11)  ✅
 
 | #   | Problem                                                                                   | Status | Solution |
 |-----|-------------------------------------------------------------------------------------------|--------|----------|
@@ -140,6 +140,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 8 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |✅    | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/tree/main/LinkedLists)
 | 9 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |✅    | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/LinkedLists/FindDuplicateNumber.py)
 | 10 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) |✅    | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/LinkedLists/LRUCache.py)
+| 11 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) |✅    | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/LinkedLists/ReverseNodesInKGroup.py)
 
 ---
 
