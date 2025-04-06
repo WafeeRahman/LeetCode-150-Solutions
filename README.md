@@ -224,6 +224,7 @@ When I'm not committing projects to my github, I like to track my leetcoding pro
 | 10  | [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/)                | ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/WallsAndGates.py) |
 | 11  | [323.Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/)                | ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/NumberOfConnectedComponents.py) |
 | 12  | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)                | ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/RedundantConnection.py) |
+| 12  | [127. Word Ladder](https://leetcode.com/problems/word-ladder/)                | ✅  | [Solution](https://github.com/WafeeRahman/LeetCode-150-Solutions/blob/main/Graphs/WordLadder.py) |
 
 ---
 
